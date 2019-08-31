@@ -18,3 +18,4 @@ print_13 - Git Status após o Add das alterações do README
 print_14 - Commit das alterações  
 print_15 - push das alterações  
 print_16 - Git Pull  
+print_17 - Git Fetch e Git Checkout
