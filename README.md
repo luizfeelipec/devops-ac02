@@ -17,3 +17,4 @@ print_12 - Git add . do README após alterações
 print_13 - Git Status após o Add das alterações do README  
 print_14 - Commit das alterações  
 print_15 - push das alterações  
+print_16 - Git Pull  
